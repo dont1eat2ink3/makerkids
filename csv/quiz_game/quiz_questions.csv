@@ -1,0 +1,46 @@
+Question,Option A,Option B,Option C,Option D,Answer
+What is the output of 2 + 2 in Python?,3,4,5,6,B
+Which of these is a data type in Python?,integer,loop,function,print,A
+Which function is used to display something on the screen?,show(),print(),screen(),echo(),B
+What symbol is used for comments in Python?,#,//,?,*,A
+Which keyword is used to create a function?,define(),func(),def(),function(),C
+How do you start a for loop in Python?,for i = 0,for i in range(),loop i,for each,B
+Which one is a Python list?,{1, 2, 3},[1, 2, 3],(1, 2, 3),1 2 3,B
+What is the output of print('Hello')?,Hello,hello,'Hello',print hello,A
+Which of these is a comparison operator?,==,=,equals,:=,A
+How do you import a module in Python?,load(),import(),use(),require(),B
+What is the keyword to create a class in Python?,object,Class,define,class,D
+How do you handle exceptions in Python?,try-except,catch-try,handle-exception,try-catch,A
+Which method is used to add an element to a list?,add(),append(),insert(),push(),B
+What is the output of len("Python")?,5,6,7,8,B
+Which keyword is used to exit a loop prematurely?,break,exit,stop,continue,A
+How do you create a dictionary in Python?,[key: value],(key: value),{key: value},<key: value>,C
+What is the result of 3 * 'a'?,'aaa',3,'aaa',a3,A
+Which operator is used to check identity?,==,is,is not,!=,B
+What is the correct file extension for Python files?,.pyth,.pt,.py,.pyt,C
+How do you create a tuple in Python?,[],{},(),D
+Which built-in function can be used to find the type of an object?,type(),typeof(),datatype(),class(),A
+What is the output of bool(0)?,True,False,0,1,B
+Which loop is guaranteed to execute at least once?,for loop,while loop,do-while loop,none of the above,D
+How do you convert a string to an integer in Python?,int("123"),str(123),float("123"),convert("123"),A
+What is the output of print(2 ** 3)?,6,8,9,5,B
+Which keyword is used to inherit a class in Python?,inherit,extends,super,from,C
+How do you define a variable with global scope inside a function?,global var,declare var,make var global,var global,A
+What is the purpose of the pass statement?,To exit a loop,To create a placeholder,To pass a value,To handle exceptions,B
+Which method removes all items from a list?,clear(),remove(),delete(),pop(),A
+How do you write a single-line comment in Python?,// comment,# comment,/* comment,; comment,B
+What is the output of print( "Hello"[-1] )?,H,e,o,l,D
+What function is used to get user input in Python?,input(),get(),read(),scan(),A
+Which of the following is a Python immutable type?,List,Dictionary,Set,Tuple,D
+How do you concatenate two strings in Python?,"str1 + str2","str1 & str2","concat(str1, str2)",str1.concat(str2),A
+What is the purpose of the __init__ method in a Python class?,To initialize the class,To represent the object,To delete the object,To call a superclass,A
+Which statement is used to skip the current iteration in a loop?,continue,break,pass,skip,A
+What is the output of list(range(3))?,[0,1,2,3],(0,1,2),[0,1,2],{0,1,2},C
+Which keyword is used to define a lambda function in Python?,lambda,def,func,anonymous,A
+What is the correct syntax to open a file for reading in Python?,open("file.txt","w"),open("file.txt","r"),open("file.txt","read"),open("file.txt"),B
+Which exception is raised when a file is not found?,FileError,FileNotFoundError,IOError,Exception,B
+How do you format a string to include variables in Python?,"%s" % var,"{var}",f"{var}",All of the above,D
+What is the purpose of the __str__ method in a Python class?,To define the string representation,To initialize the class,To delete the object,To compare two objects,A
+Which module is used for regular expressions in Python?,regex,re,pattern,string,B
+How do you install a package using pip?,pip install package,pip get package,pip download package,pip fetch package,A
+What is the output of sorted([3,1,2])?,[3,1,2],[1,2,3],(1,2,3),{1,2,3},B
