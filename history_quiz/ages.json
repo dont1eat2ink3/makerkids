@@ -1,0 +1,458 @@
+{
+    "Stone Age": {
+        "Inventions": [
+            "Discovery of fire",
+            "Creation of stone tools",
+            "Development of cave paintings",
+            "Stone-tipped spears",
+            "Hand axes",
+            "Bow and arrows",
+            "Hammerstones",
+            "Bone needles",
+            "Fishhooks made of bone",
+            "Earliest woven baskets"
+        ],
+        "Major Events": [
+            "Early humans migrate out of Africa",
+            "First hunter-gatherer societies form",
+            "Domestication of fire",
+            "Start of symbolic thinking",
+            "Emergence of early burial rituals",
+            "Formation of basic communication systems",
+            "Hunting large megafauna",
+            "Development of early social structures",
+            "Discovery of pigments for art",
+            "Emergence of rudimentary clothing from animal hides"
+        ],
+        "Daily Life": [
+            "Hunting large animals",
+            "Gathering wild fruits and vegetables",
+            "Living in caves or huts",
+            "Using fire for warmth and cooking",
+            "Creating art on cave walls",
+            "Using simple tools for hunting and gathering",
+            "Exploring new territories",
+            "Building temporary shelters",
+            "Crafting jewelry from bones and shells",
+            "Forming small, mobile groups"
+        ]
+    },
+    "Bronze Age": {
+        "Inventions": [
+            "Bronze tools and weapons",
+            "Invention of the wheel",
+            "Early writing systems like cuneiform",
+            "Pottery wheels",
+            "Plow for farming",
+            "Glassmaking techniques",
+            "Early metalworking",
+            "Advanced irrigation systems",
+            "First calendars",
+            "The potter's kiln"
+        ],
+        "Major Events": [
+            "Emergence of city-states",
+            "Trade routes established",
+            "Construction of the first pyramids",
+            "Rise of the Sumerian civilization",
+            "Code of Hammurabi created",
+            "Expansion of Mesopotamian cultures",
+            "Minoan civilization thrives",
+            "Introduction of chariots in warfare",
+            "Formation of Egyptian hieroglyphics",
+            "Development of centralized governments"
+        ],
+        "Daily Life": [
+            "Farming and raising livestock",
+            "Bartering goods at markets",
+            "Using bronze for everyday tools",
+            "Living in early cities",
+            "Worshiping in temples",
+            "Trading with neighboring regions",
+            "Building stone and mud-brick homes",
+            "Creating art and pottery",
+            "Organizing into specialized jobs",
+            "Holding festivals and religious ceremonies"
+        ]
+    },
+    "Iron Age": {
+        "Inventions": [
+            "Iron tools and weapons",
+            "Advancements in agriculture",
+            "First coins used as currency",
+            "Iron plows",
+            "Steel-making techniques",
+            "Improved smelting processes",
+            "Chainmail armor",
+            "Early mechanical devices",
+            "Iron nails",
+            "Iron-bladed sickles"
+        ],
+        "Major Events": [
+            "Expansion of empires like Assyria and Persia",
+            "Foundation of Rome",
+            "Rise of the Celts",
+            "Development of the Greek alphabet",
+            "Fall of the Hittite Empire",
+            "The Trojan War",
+            "Rise of the Zhou Dynasty in China",
+            "The Persian Wars",
+            "Spread of the Phoenician alphabet",
+            "First Olympic Games"
+        ],
+        "Daily Life": [
+            "Plowing fields with iron tools",
+            "Crafting iron swords",
+            "Living in small villages",
+            "Using iron for construction",
+            "Farming with more efficiency",
+            "Worshiping local gods",
+            "Building fortified settlements",
+            "Training for military service",
+            "Trading iron goods",
+            "Relying on oral traditions and storytelling"
+        ]
+    },
+    "Classical Era": {
+        "Inventions": [
+            "Democracy in Ancient Greece",
+            "Aqueducts by Romans",
+            "Development of the alphabet",
+            "Arch bridges",
+            "The odometer",
+            "Concrete construction",
+            "Water mills",
+            "The pulley system",
+            "Catapults",
+            "Central heating systems"
+        ],
+        "Major Events": [
+            "Olympic Games begin in Greece",
+            "Rise of the Roman Empire",
+            "The life of Confucius",
+            "Persian invasions of Greece",
+            "The Punic Wars",
+            "Julius Caesar's rule",
+            "Alexander the Great's conquests",
+            "Construction of the Parthenon",
+            "Birth of Christianity",
+            "Spread of Hellenistic culture"
+        ],
+        "Daily Life": [
+            "Attending plays in amphitheaters",
+            "Trading goods in bustling markets",
+            "Living under Roman law",
+            "Worshiping multiple gods",
+            "Studying philosophy",
+            "Competing in athletic games",
+            "Building homes with advanced architecture",
+            "Participating in military campaigns",
+            "Using coins for commerce",
+            "Reading scrolls and manuscripts"
+        ]
+    },
+    "Medieval Era": {
+        "Inventions": [
+            "Windmills",
+            "Mechanical clocks",
+            "Gothic architecture",
+            "The printing press",
+            "Chainmail armor",
+            "Stirrups",
+            "Eyeglasses",
+            "Universities",
+            "The longbow",
+            "Horse collar"
+        ],
+        "Major Events": [
+            "The Crusades",
+            "The Black Death",
+            "The rise of feudalism",
+            "The Hundred Years' War",
+            "Fall of Constantinople",
+            "The Magna Carta is signed",
+            "Charlemagne crowned Holy Roman Emperor",
+            "Founding of the University of Oxford",
+            "Marco Polo's travels",
+            "The Viking invasions"
+        ],
+        "Daily Life": [
+            "Living in castles and villages",
+            "Farming with feudal obligations",
+            "Wearing wool and linen clothing",
+            "Using candles for lighting",
+            "Trading in medieval markets",
+            "Attending jousting tournaments",
+            "Living under the feudal system",
+            "Eating bread and porridge daily",
+            "Praying in cathedrals and churches",
+            "Learning from traveling minstrels"
+        ]
+    },
+    "Early Modern Era": {
+        "Inventions": [
+            "The telescope",
+            "The microscope",
+            "Gutenberg's printing press",
+            "Steam engines",
+            "Pendulum clocks",
+            "Cartography advancements",
+            "Early firearms",
+            "Water-powered mills",
+            "The sextant",
+            "Surgical instruments"
+        ],
+        "Major Events": [
+            "The Renaissance begins",
+            "The Protestant Reformation",
+            "The Scientific Revolution",
+            "The Age of Absolutism",
+            "Shakespeare's plays are written",
+            "The Thirty Years' War",
+            "Galileo's astronomical discoveries",
+            "The colonization of the Americas",
+            "The Spanish Armada",
+            "The Salem Witch Trials"
+        ],
+        "Daily Life": [
+            "Living in bustling Renaissance cities",
+            "Studying art and philosophy",
+            "Reading newly printed books",
+            "Wearing elaborate clothing",
+            "Attending theater performances",
+            "Experimenting with new sciences",
+            "Trading exotic goods from the Americas",
+            "Exploring the New World",
+            "Painting with oil paints",
+            "Learning from new discoveries in anatomy"
+        ]
+    },
+    "Islamic Golden Age": {
+        "Inventions": [
+            "Algebra",
+            "Astrolabe improvements",
+            "Surgical instruments",
+            "The camera obscura",
+            "Soap-making techniques",
+            "Advancements in optics",
+            "Hospitals with wards",
+            "The wind turbine",
+            "The crankshaft",
+            "Arabic numerals"
+        ],
+        "Major Events": [
+            "Translation of ancient Greek texts",
+            "Founding of the House of Wisdom",
+            "Development of Islamic art and architecture",
+            "Expansion of the Abbasid Caliphate",
+            "Invention of Arabic calligraphy",
+            "First pharmacies established",
+            "Ibn Sina's contributions to medicine",
+            "Al-Khwarizmi writes on algebra",
+            "Muslim scholars map the stars",
+            "Spread of Islam across North Africa and Spain"
+        ],
+        "Daily Life": [
+            "Studying astronomy",
+            "Living in grand cities like Baghdad and Cordoba",
+            "Practicing advanced medicine",
+            "Reading poetry and literature",
+            "Building intricate mosques",
+            "Trading along the Silk Road",
+            "Developing irrigation systems",
+            "Crafting fine textiles",
+            "Creating geometric patterns in art",
+            "Studying the Quran and hadith"
+        ]
+    },
+    "Age of Enlightenment": {
+        "Inventions": [
+            "The steam engine",
+            "The lightning rod",
+            "Vaccination",
+            "The chronometer",
+            "Electricity experiments",
+            "The hot air balloon",
+            "The spinning jenny",
+            "Hydraulic presses",
+            "The flush toilet",
+            "Modern chemistry"
+        ],
+        "Major Events": [
+            "American Revolution",
+            "French Revolution",
+            "The writing of the U.S. Constitution",
+            "The Industrial Revolution begins",
+            "Voltaire's literary contributions",
+            "Spread of scientific academies",
+            "Newton's publication of the Principia",
+            "The publication of the Encyclopédie",
+            "Rousseau's philosophy",
+            "The Declaration of the Rights of Man"
+        ],
+        "Daily Life": [
+            "Reading philosophical essays",
+            "Experimenting with science kits",
+            "Living in growing industrial cities",
+            "Attending salons for intellectual discussions",
+            "Using candles for evening light",
+            "Printing political pamphlets",
+            "Writing with quills",
+            "Using horse-drawn carriages",
+            "Wearing wigs and powdered makeup",
+            "Exploring global trade"
+        ]
+    },
+    "Age of Exploration": {
+        "Inventions": [
+            "The astrolabe",
+            "The caravel ship",
+            "Mapmaking advancements",
+            "The magnetic compass",
+            "The sextant",
+            "Navigational charts",
+            "Improved cannons",
+            "Early diving bells",
+            "Gunpowder weaponry",
+            "Waterproof clothing"
+        ],
+        "Major Events": [
+            "Columbus's voyage to the Americas",
+            "Magellan's circumnavigation of the globe",
+            "Vasco da Gama's route to India",
+            "The conquest of the Aztec Empire",
+            "The establishment of colonial empires",
+            "The Treaty of Tordesillas",
+            "Discovery of the Pacific Ocean",
+            "The founding of Jamestown",
+            "Establishment of the Spice Trade",
+            "Rise of the transatlantic slave trade"
+        ],
+        "Daily Life": [
+            "Sailing aboard ships",
+            "Mapping new territories",
+            "Trading spices and goods",
+            "Establishing colonies",
+            "Living in harsh conditions on expeditions",
+            "Interacting with Indigenous peoples",
+            "Crafting wooden ships",
+            "Hunting for gold and treasures",
+            "Writing journals of exploration",
+            "Bartering in newly discovered lands"
+        ]
+    },
+    "Neolithic Revolution": {
+        "Inventions": [
+            "Agriculture",
+            "Domestication of animals",
+            "Pottery",
+            "Weaving",
+            "Early plows",
+            "Stone grinding tools",
+            "Granaries for storage",
+            "Irrigation systems",
+            "Adobe bricks",
+            "Domesticated crops like wheat and barley"
+        ],
+        "Major Events": [
+            "Rise of permanent settlements",
+            "Domestication of sheep and goats",
+            "Formation of the first villages",
+            "Transition from nomadic to sedentary life",
+            "Discovery of metal ores",
+            "Introduction of social hierarchies",
+            "Emergence of trade systems",
+            "Development of religious rituals",
+            "Invention of farming tools",
+            "Expansion of arable land"
+        ],
+        "Daily Life": [
+            "Tending to crops",
+            "Raising domesticated animals",
+            "Building permanent homes",
+            "Using pottery for storage",
+            "Trading surplus food",
+            "Worshiping nature deities",
+            "Cooking with clay pots",
+            "Crafting woven baskets",
+            "Creating early art from clay",
+            "Organizing communal feasts"
+        ]
+    },
+    "Mesolithic Age": {
+        "Inventions": [
+            "Microlith tools",
+            "Fishing nets",
+            "Bow and arrow advancements",
+            "Domestication of the dog",
+            "Improved canoes",
+            "Hearth construction",
+            "Wooden shelters",
+            "Early fishing hooks",
+            "Grain grinding stones",
+            "Stone adzes"
+        ],
+        "Major Events": [
+            "Transition to semi-permanent settlements",
+            "Increased reliance on fishing",
+            "Domestication of animals begins",
+            "Expansion of foraging techniques",
+            "Use of seasonal camps",
+            "Development of composite tools",
+            "Spread of agriculture",
+            "Advances in hunting strategies",
+            "Carving of figurines",
+            "Increase in population density"
+        ],
+        "Daily Life": [
+            "Fishing in rivers and lakes",
+            "Hunting with advanced tools",
+            "Gathering wild grains",
+            "Cooking on open hearths",
+            "Taming wild animals",
+            "Crafting ornaments",
+            "Weaving natural fibers",
+            "Seasonal migration",
+            "Using dugout canoes",
+            "Organizing in larger communities"
+        ]
+    },
+    "Future": {
+        "Inventions": [
+            "Quantum computing",
+            "Space elevators",
+            "Advanced AI and robotics",
+            "Interstellar travel",
+            "Personalized medicine",
+            "Nano-tech clothing",
+            "Fusion energy systems",
+            "Holographic communication",
+            "Self-repairing materials",
+            "Cryogenic preservation"
+        ],
+        "Major Events": [
+            "Colonization of Mars",
+            "Discovery of new energy sources",
+            "Cure for major diseases",
+            "Interstellar diplomacy",
+            "AI integration in governments",
+            "Discovery of alien life",
+            "Global unification",
+            "End of poverty through automation",
+            "Universal basic income established",
+            "Cloning of extinct species"
+        ],
+        "Daily Life": [
+            "Living in smart cities",
+            "Using personal flying vehicles",
+            "Interacting with humanoid robots",
+            "Experiencing virtual reality vacations",
+            "Harnessing solar power directly",
+            "Growing food in vertical farms",
+            "Living in floating cities",
+            "Using brain-computer interfaces",
+            "Creating custom-designed organisms",
+            "Working with AI assistants"
+        ]
+    }
+}
